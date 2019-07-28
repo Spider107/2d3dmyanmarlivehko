@@ -1,15 +1,15 @@
 {
   "title": "App Update!",
   "message": "This is new Feature Update",
-  "download": "https://github.com/Spider107/2d3dappupdate/raw/master/2d3dmmmmm.apk",
-  "playstore": "com.azm.a2d3dmyanmar",
+  "download": "https://github.com/Spider107/2d3dmyanmarlivehko/raw/master/2d3dMyanamr%20Live%20v1.1.apk",
+  "playstore": "com.hko.a2d3dmyanmarlive",
   "uninstall":false,
   "what": {
     "model": [],
     "version": [],
     "all": true
   },
-  "versionName": "1.0",
-  "versionCode": "1",
+  "versionName": "1.1",
+  "versionCode": "2",
   "force": true
 }
